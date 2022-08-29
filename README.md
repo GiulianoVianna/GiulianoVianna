@@ -1,5 +1,8 @@
-### Olá! Eu sou o Giuliano! ✋🏻
+### <h1 align="left">Olá! Eu sou o Giuliano! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
+
+
 ![Giuliano GitHub stats](https://github-readme-stats.vercel.app/api?username=GiulianoVianna&show_icons=true&theme=radical)
+
 
 ## Sistemas operacionais que utilizo para desenvolvimento:
 
