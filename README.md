@@ -1,4 +1,4 @@
-### Olá! Eu sou o Giuliano Vianna! ✋🏻
+### Olá! Eu sou o Giuliano! ✋🏻
 ![Giuliano GitHub stats](https://github-readme-stats.vercel.app/api?username=GiulianoVianna&show_icons=true&theme=radical)
 
 ## Sistemas operacionais que utilizo para desenvolvimento:
