@@ -1,7 +1,12 @@
 ### <h1 align="left">Olá! Eu sou o Giuliano! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GiulianoVianna&color=yellow" alt="Profile views" /> </p>
 
 ![Giuliano GitHub stats](https://github-readme-stats.vercel.app/api?username=GiulianoVianna&show_icons=true&theme=radical)
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiulianoVianna&layout=compact&theme=vision-friendly-dark" alt="GiulianoVianna's most languages"/>
+</p>
 
 
 ## Sistemas operacionais que utilizo para desenvolvimento:
@@ -34,5 +39,7 @@
 </div>
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+
 
 
