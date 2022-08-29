@@ -6,8 +6,7 @@
 
 ## Top languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiulianoVianna&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiulianoVianna&layout=compact&langs_count=7&theme=dracula"/>
 
 ## Sistemas operacionais que utilizo para desenvolvimento:
 
