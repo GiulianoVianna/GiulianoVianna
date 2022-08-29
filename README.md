@@ -4,9 +4,9 @@
 
 ![Giuliano GitHub stats](https://github-readme-stats.vercel.app/api?username=GiulianoVianna&show_icons=true&theme=radical)
 
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiulianoVianna&layout=compact&theme=vision-friendly-dark" alt="GiulianoVianna's most languages"/>
-</p>
+## Top languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiulianoVianna&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Sistemas operacionais que utilizo para desenvolvimento:
