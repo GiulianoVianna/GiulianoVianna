@@ -2,11 +2,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GiulianoVianna&color=yellow" alt="Profile views" /> </p>
 
+<div align="center">
+
 ![Giuliano GitHub stats](https://github-readme-stats.vercel.app/api?username=GiulianoVianna&show_icons=true&theme=dracula)
 
-## Top languages
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiulianoVianna&langs_count=8&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 ## Sistemas operacionais que utilizo para desenvolvimento:
 
