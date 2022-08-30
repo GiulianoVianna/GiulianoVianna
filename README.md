@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GiulianoVianna&color=yellow" alt="Profile views" /> </p>
 
-<div align="center">
+<div style="display: inline_block"><br>
 
 ![Giuliano GitHub stats](https://github-readme-stats.vercel.app/api?username=GiulianoVianna&show_icons=true&theme=dracula)
 
